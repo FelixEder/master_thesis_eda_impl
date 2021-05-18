@@ -1,0 +1,8 @@
+{
+  "personalNumber": "{{uuid}}",
+  "fullName": "{{firstname}} {{surname}}",
+  "age": {{integer 18 64}},
+  "dateRegistered":"{{date 1970-01-01 2015-01-01}}",
+  "homeAddress":"{{street}}",
+  "postalNumber":"{{postcode}}"
+}
